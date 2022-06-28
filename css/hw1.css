@@ -81,6 +81,7 @@ tr:not(tr:first-child){
 
 tr:not(tr:first-child):hover{
     opacity: 1;
+    font-size: 110%;
 }
 
 td{
